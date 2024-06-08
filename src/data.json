@@ -1,33 +1,32 @@
 {
-  "fullName": "Olivia Davis",
+  "fullName": "Tapaswini",
   "metadata": {
-    "title": "Olivia Davis - FullStack Developer",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
+    "title": " Tapaswini - Associate Developer",
+    "description": "",
     "keywords": [
-      "Olivia Davis",
-      "New York",
-      "FullStack Developer",
-      "TypeScript",
+      "Tapaswini Chand",
+      "Odisha",
+      "Associate Developer",
+      ".Net",
       "JavaScript",
       "React",
       "Angular",
       "Node.js"
     ]
   },
-  "typedText": ["Full Stack Guru", "Design Maestro", "Bug Resolver"],
-  "email": "oliviadavis@example.com",
+  "typedText": [ "Bug Resolver"],
+  "email": "@example.com",
   "location": "New York, USA",
   "description": [
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
+    ",
     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro.",
     " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum."
   ],
   "links": {
     "twitter": "https://twitter.com/kotlin",
     "linkedin": "https://linkedin.com/in/kotlin",
-    "github": "https://github.com/kotlin",
-    "mail": "mailto:oliviadavis@example.com",
-    "blog": "https://blog.example.com"
+    "mail": "mailto:@example.com",
+
   },
   "skills": [
     "html",
